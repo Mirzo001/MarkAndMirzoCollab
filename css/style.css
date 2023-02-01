@@ -1,0 +1,11 @@
+#navbar {
+    position: fixed;
+    top: 0;
+  }
+  
+  @media (max-width: 1250px) {
+      body {
+        background-color: red;
+      }
+   }
+   
